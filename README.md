@@ -8,8 +8,8 @@ About the maze:
 
 Learnings about this week:  
 - VR developement environment set up  
-- XR Rig
-- Create Map using Grids (Didn't use the ProGrid since the new version already include Grid function )  
+- Create Map using Grids (Didn't use the ProGrid since the new version already include Grid function )
+- XR Rig  
 - Interactors, Interactables  
 - Layers and Interaction Layers Masks  
 - Locomotion system  
