@@ -13,7 +13,7 @@ Learnings about this week:
 - XR Rig  
 - Interactors, Interactables  
 - Layers and Interaction Layers Masks  
-- Locomotion system  
+- Teleportion system  
 - XR Interactions with Triggers and Tags
 - XR Direct Interactor
 - XR Ray Interactos
