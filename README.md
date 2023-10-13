@@ -2,7 +2,8 @@
 About the maze:   
 - Used free asset package Ultimate Low Poly Dungeon refered by Mohammad   
 - Use lefthand Trigger to move  
-- Right hand Grid for grabbing the key  
+- Right hand Grid for grabbing the key
+- Snap turns using the Thumbstick both hands
 - Taking wrong way will lead to starting point  
 - Only one key can open the door
 
@@ -13,5 +14,8 @@ Learnings about this week:
 - Interactors, Interactables  
 - Layers and Interaction Layers Masks  
 - Locomotion system  
-- XR Interactions with Triggers and Tags   
+- XR Interactions with Triggers and Tags
+- XR Direct Interactor
+- XR Ray Interactos
+- XR Grab Interaction
 
